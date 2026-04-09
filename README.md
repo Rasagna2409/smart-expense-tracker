@@ -1,7 +1,7 @@
 # 💰 Smart Expense Tracker Dashboard
 
 ## 🚀 Live Demo
-[Click Here](your-streamlit-link)
+https://smart-expense-tracker-rbknp4gghdoat9ljxdxtzp.streamlit.app/
 
 ## 📌 Features
 - User Authentication (Login/Register)
